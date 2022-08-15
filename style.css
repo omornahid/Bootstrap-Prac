@@ -1,0 +1,46 @@
+.nav-item a:hover{
+    background-color: #4b4b4b;
+    border-radius: 10px;
+}
+
+.bg{
+    background-color: #c7ecee;
+}
+.banner_section{
+    background-image: url(/img/start/moon-and-me-5k-ej-2560x1440.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    height: 100vh;
+}
+.banner_section h1{
+    color: #b147fd;
+}
+
+.banner_section p{
+    color: #ffbe6a;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 20px rgb(208, 223, 238);
+    padding: 15px;
+}
+
+#destination h1{
+    color:#6ab04c
+}
+
+#packages h1{
+    color: #82589F;
+}
+.price{
+    background-color: #6ab04c;
+    border-radius: 10px;
+    width: 50%;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    margin-bottom: 10px;
+}
